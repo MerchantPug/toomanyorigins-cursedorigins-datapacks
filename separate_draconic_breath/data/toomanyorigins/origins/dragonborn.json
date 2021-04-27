@@ -1,0 +1,14 @@
+{
+	"loading_priority": 1,
+	"powers": [
+		"toomanyorigins:dragon_breath",
+		"separate:fuel_breath",
+		"origins:carnivore",
+		"toomanyorigins:no_knockback",
+		"toomanyorigins:weak_point",
+		"toomanyorigins:zenith_scales"
+	],
+	"icon": "minecraft:dragon_breath",
+	"order": 6,
+	"impact": 1
+}
