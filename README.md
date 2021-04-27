@@ -10,3 +10,5 @@ You can delete files inside this datapack to keep certain Origins enabled.
 
 `enable_cursedorigins`: Enables all hidden CursedOrigins Origins.
 You can delete files inside this datapack to keep certain Origins disabled.
+
+`separate_draconic_breath`: Moves the lighting functionality of Dragonborn's breath to a second keybind.
