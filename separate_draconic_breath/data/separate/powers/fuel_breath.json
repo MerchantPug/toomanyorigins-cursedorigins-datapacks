@@ -14,5 +14,5 @@
     "key": "key.origins.secondary_active",
     "continuous": false
   },
-  "hidden": false
+  "hidden": true
 }
