@@ -3,7 +3,7 @@
 	"powers": [
 	],
 	"icon": "minecraft:wither_rose",
-	"order": 2,
+	"order": 3,
 	"impact": 2,
 	"unchoosable": true
 }
