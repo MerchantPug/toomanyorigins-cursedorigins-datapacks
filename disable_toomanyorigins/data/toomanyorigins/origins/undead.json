@@ -2,7 +2,7 @@
 	"loading_priority": 1,
 	"powers": [
 	],
-	"icon": "minecraft:ritten_flesh",
+	"icon": "minecraft:rotten_flesh",
 	"order": 2,
 	"impact": 2,
 	"unchoosable": true
