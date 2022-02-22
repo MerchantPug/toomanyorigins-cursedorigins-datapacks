@@ -11,4 +11,6 @@ You can delete files inside this datapack to keep certain Origins enabled.
 `enable_cursedorigins`: Enables all hidden CursedOrigins Origins.
 You can delete files inside this datapack to keep certain Origins disabled.
 
+`modded_crop_compat`: A sample pack for adding modded crops for compatibility with Withered's Black Thumb downside.
+
 `separate_draconic_breath`: Moves the lighting functionality of Dragonborn's breath to a second keybind.
